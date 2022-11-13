@@ -16,4 +16,14 @@ for file in $(find $src -printf "%P\n") ; do
     fi
 done
 
+
+
+
+
+
+
+
+
+
+
 # laba2
